@@ -1,0 +1,28 @@
+abstract :
+
+- anatomi css : selector { property: value; }. contoh, h1 { color: blue; }
+- penempatan css : embed(yaitu di file htmlnya atau php dan sebagainya dengan mengisi didalam tag <style></style>)
+- overlapping margin : adalah bagi sumbu vertikal saja di css kalau horizontal itu tidak(berpengaruh)
+- kalau ingin tag di html itu di tengah menggunakan margin, gunakan margin-left dan right dengan value auto
+- margin: 20px auto : artinya 20px itu atas dan bawah, dan auto adalah kanan dan kiri
+- margin: 1 2 3 4 : artinya searah jarum jam mulainya dari atas kanan bawah kiri
+- padding menambah ukuran elemen dan padding tidak dapat menggunakan nilai negatif
+- border juga menambah ukuran elemen
+- box-sizing: border-box; : itu untuk menjadikan tag elemen html menjadi lebar tetap yang di tetapkan berapapun padding dan border yang di berikan
+- float itu tergantung elemen pembungkusnya
+- untuk membuat tulisan menjadi di tengah kotak itu menggunakan line-height dan valuenya sesuai dengan height kotaknya
+- absolute akan relative terhadap parrentnya dan parrentnya harus berada di dimensi yang sama
+- box shadow dan text shadow kalau valuenya plus itu ke kanan dan ke bawah kalau minus itu sebaliknya ke kiri dan atas, atau istilahnya itu x dan y, dan searah dengan jarum jam
+- linear-gradient itu value dari background-image, alasannya karena agar dapat di gunakan bersama-sama antara background-image dan background-color
+- transform itu adalah property dan translate itu salah satu valuenya
+- :target : adalah salah satu sudo class yang menggunakan penggalan identifier
+- rotate ada sebagai di value of transform dan ada juga sebagai property
+
+
+source learning :
+
+- WPU Sandhika Galih
+
+pertanyaan :
+
+- 
